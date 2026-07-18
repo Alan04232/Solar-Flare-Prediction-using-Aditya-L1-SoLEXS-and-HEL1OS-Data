@@ -1,0 +1,25 @@
+# Scientific Computing
+numpy>=2.0.0
+scipy>=1.13.0
+pandas>=2.2.0
+
+# Astronomy / FITS Processing
+astropy>=7.0.0
+astroquery>=0.4.8
+
+# Machine Learning
+scikit-learn>=1.5.0
+joblib>=1.4.0
+
+# Data Visualization
+matplotlib>=3.9.0
+
+# Progress Bars
+tqdm>=4.66.0
+
+# Jupyter Notebook
+notebook>=7.2.0
+ipykernel>=6.29.0
+
+# Utilities
+python-dateutil>=2.9.0

@@ -1,4 +1,4 @@
-# ☀️ Solar Flare Prediction using Aditya-L1 SoLEXS and HEL1OS Data
+# Solar Flare Prediction using Aditya-L1 SoLEXS and HEL1OS Data
 
 ## Overview
 
